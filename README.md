@@ -1,11 +1,10 @@
 ### 嗨，我是文歌子 👋
 
-白天读遥感，晚上写插件。兴趣在 **AI + 地球科学** 这条交叉路上 —— 遥感深度学习、地学基础模型、空间智能体，以及把它们接到真实工作流里的那一层工具。
+周末、晚上写插件。兴趣在 **AI + 地球科学** 这条交叉路上 —— 遥感深度学习、地学基础模型、空间智能体，以及把它们接到真实工作流里的那一层工具。
 
 #### 在做的事
 
 - **[sage-mem](https://github.com/gezi-wen/sage-mem)** —— 给 DeepSeek Harness 装上跨会话记忆。每条记忆都是本地一个 Markdown 文件，没有数据库、没有常驻进程。
-- **sage-\* 插件家族** —— [sage-reminder](https://github.com/gezi-wen/sage-reminder)（会话头部的提醒与倒计时）、[dsh-panel-order](https://github.com/gezi-wen/dsh-panel-order)（侧栏面板拖拽排序）、[dsh-guikit](https://github.com/gezi-wen/dsh-guikit)（Windows 桌面控制工具包）。
 - 地学那边：遥感影像语义分割、变化检测、把这些模型接进 agent 的 MCP 工具链。
 
 #### 相信的几件事
